@@ -19,7 +19,7 @@
         <field>cpm__Installment__c.cpm__Target__c</field>
     </columns>
     <currency>EUR</currency>
-    <description>Receivable Installments with Source PaymentHub for NPSP and without a related Opportunity</description>
+    <description>Receivable Installments with Source FinDock for Fundraising and without a related Gift Transaction</description>
     <filter>
         <criteriaItems>
             <column>CUST_RECORDTYPE</column>
